@@ -1,1 +1,3 @@
 HeartBeatStreamlit.py is the script that helps me host this project on streamlit.
+CLI_for_Heart_BPM.py is what you can run locally after downloading the following python modules:
+OpenCV, CVzone, numpy and Mediapipe.
